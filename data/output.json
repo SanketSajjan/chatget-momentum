@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-05-20 20:33:31",
+    "lastUpdated": "2026-05-21 18:31:25",
     "regime": {
         "score": 3,
         "regime": "FULL",
@@ -10,11 +10,11 @@
             "vixSpikeSafe": true
         },
         "marketData": {
-            "niftyClose": 23659.0,
+            "niftyClose": 23654.69921875,
             "supertrend": 24868.951572572,
             "niftyPE": 20.4,
-            "indiaVIX": 18.440000534057617,
-            "vixChange4Week": -6.44342267583123
+            "indiaVIX": 17.822500228881836,
+            "vixChange4Week": -9.576351817681074
         }
     },
     "top20Symbols": [
@@ -34,9 +34,9 @@
             "capital": 100000.0,
             "allocation": {
                 "symbol": "TATAGOLD",
-                "price": 15.28,
-                "quantity": 6544,
-                "investedAmount": 99992.32
+                "price": 15.34,
+                "quantity": 6518,
+                "investedAmount": 99986.12
             }
         },
         "debt": {
@@ -49,79 +49,79 @@
         {
             "Rank": 1,
             "Symbol": "ADANIENSOL",
-            "12M": 47.79,
-            "6M": 31.47,
-            "3M": 36.24,
-            "MomentumScore": 40.59
+            "12M": 46.68,
+            "6M": 31.39,
+            "3M": 33.76,
+            "MomentumScore": 39.51
         },
         {
             "Rank": 2,
             "Symbol": "NUVAMA",
-            "12M": 21.89,
-            "6M": 1.53,
-            "3M": 14.67,
-            "MomentumScore": 14.34
+            "12M": 24.21,
+            "6M": 2.73,
+            "3M": 17.56,
+            "MomentumScore": 16.44
         },
         {
             "Rank": 3,
             "Symbol": "ETERNAL",
-            "12M": 0.31,
-            "6M": -19.89,
-            "3M": -14.68,
-            "MomentumScore": -8.75
+            "12M": -1.51,
+            "6M": -21.81,
+            "3M": -15.54,
+            "MomentumScore": -10.41
         },
         {
             "Rank": 4,
             "Symbol": "UNITDSPR",
-            "12M": -15.62,
-            "6M": -9.72,
-            "3M": -8.4,
-            "MomentumScore": -12.41
+            "12M": -16.51,
+            "6M": -10.91,
+            "3M": -9.16,
+            "MomentumScore": -13.36
         },
         {
             "Rank": 5,
             "Symbol": "JIOFIN",
-            "12M": -14.13,
-            "6M": -25.48,
-            "3M": -11.09,
-            "MomentumScore": -16.93
+            "12M": -14.75,
+            "6M": -24.43,
+            "3M": -10.2,
+            "MomentumScore": -16.74
         }
     ],
     "portfolio": [
         {
             "symbol": "ADANIENSOL",
-            "price": 1346.1,
+            "price": 1342.2,
             "quantity": 29,
-            "investedAmount": 39036.9,
-            "momentumScore": 40.59
+            "investedAmount": 38923.8,
+            "momentumScore": 39.51
         },
         {
             "symbol": "NUVAMA",
-            "price": 1476.2,
-            "quantity": 27,
-            "investedAmount": 39857.4,
-            "momentumScore": 14.34
+            "price": 1499.0,
+            "quantity": 26,
+            "investedAmount": 38974.0,
+            "momentumScore": 16.44
         },
         {
             "symbol": "ETERNAL",
-            "price": 243.34,
-            "quantity": 164,
-            "investedAmount": 39907.76,
-            "momentumScore": -8.75
+            "price": 242.05,
+            "quantity": 165,
+            "investedAmount": 39938.25,
+            "momentumScore": -10.41
         },
         {
             "symbol": "UNITDSPR",
-            "price": 1284.6,
+            "price": 1272.6,
             "quantity": 31,
-            "investedAmount": 39822.6,
-            "momentumScore": -12.41
+            "investedAmount": 39450.6,
+            "momentumScore": -13.36
         },
         {
             "symbol": "JIOFIN",
-            "price": 234.67,
-            "quantity": 170,
-            "investedAmount": 39893.9,
-            "momentumScore": -16.93
+            "price": 235.78,
+            "quantity": 169,
+            "investedAmount": 39846.82,
+            "momentumScore": -16.74
         }
     ],
     "capital": 500000
