@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-05-21 18:31:25",
+    "lastUpdated": "2026-05-22 18:26:10",
     "regime": {
         "score": 3,
         "regime": "FULL",
@@ -10,7 +10,7 @@
             "vixSpikeSafe": true
         },
         "marketData": {
-            "niftyClose": 23654.69921875,
+            "niftyClose": 23719.30078125,
             "supertrend": 24868.951572572,
             "niftyPE": 20.4,
             "indiaVIX": 17.822500228881836,
@@ -18,11 +18,26 @@
         }
     },
     "top20Symbols": [
+        "MCX",
+        "POWERINDIA",
+        "NATIONALUM",
+        "LAURUSLABS",
+        "ADANIPOWER",
+        "IDEA",
+        "BSE",
+        "BHEL",
+        "SAIL",
+        "CUMMINSIND",
+        "HINDALCO",
         "ADANIENSOL",
-        "NUVAMA",
-        "ETERNAL",
-        "UNITDSPR",
-        "JIOFIN"
+        "FORCEMOT",
+        "BHARATFORG",
+        "GLENMARK",
+        "KEI",
+        "POLYCAB",
+        "HINDZINC",
+        "ABCAPITAL",
+        "NAM-INDIA"
     ],
     "assetAllocation": {
         "stocks": {
@@ -34,9 +49,9 @@
             "capital": 100000.0,
             "allocation": {
                 "symbol": "TATAGOLD",
-                "price": 15.34,
-                "quantity": 6518,
-                "investedAmount": 99986.12
+                "price": 15.31,
+                "quantity": 6531,
+                "investedAmount": 99989.61
             }
         },
         "debt": {
@@ -48,80 +63,235 @@
     "top20": [
         {
             "Rank": 1,
-            "Symbol": "ADANIENSOL",
-            "12M": 46.68,
-            "6M": 31.39,
-            "3M": 33.76,
-            "MomentumScore": 39.51
+            "Symbol": "MCX",
+            "12M": 153.41,
+            "6M": 69.16,
+            "3M": 43.22,
+            "MomentumScore": 106.1
         },
         {
             "Rank": 2,
-            "Symbol": "NUVAMA",
-            "12M": 24.21,
-            "6M": 2.73,
-            "3M": 17.56,
-            "MomentumScore": 16.44
+            "Symbol": "POWERINDIA",
+            "12M": 122.42,
+            "6M": 66.03,
+            "3M": 54.74,
+            "MomentumScore": 91.97
         },
         {
             "Rank": 3,
-            "Symbol": "ETERNAL",
-            "12M": -1.51,
-            "6M": -21.81,
-            "3M": -15.54,
-            "MomentumScore": -10.41
+            "Symbol": "NATIONALUM",
+            "12M": 135.11,
+            "6M": 61.85,
+            "3M": 20.67,
+            "MomentumScore": 90.24
         },
         {
             "Rank": 4,
-            "Symbol": "UNITDSPR",
-            "12M": -16.51,
-            "6M": -10.91,
-            "3M": -9.16,
-            "MomentumScore": -13.36
+            "Symbol": "LAURUSLABS",
+            "12M": 121.61,
+            "6M": 33.56,
+            "3M": 32.71,
+            "MomentumScore": 77.41
         },
         {
             "Rank": 5,
-            "Symbol": "JIOFIN",
-            "12M": -14.75,
-            "6M": -24.43,
-            "3M": -10.2,
-            "MomentumScore": -16.74
+            "Symbol": "ADANIPOWER",
+            "12M": 95.04,
+            "6M": 46.65,
+            "3M": 51.94,
+            "MomentumScore": 71.9
+        },
+        {
+            "Rank": 6,
+            "Symbol": "IDEA",
+            "12M": 104.32,
+            "6M": 27.84,
+            "3M": 20.65,
+            "MomentumScore": 64.64
+        },
+        {
+            "Rank": 7,
+            "Symbol": "BSE",
+            "12M": 68.67,
+            "6M": 47.98,
+            "3M": 52.93,
+            "MomentumScore": 59.32
+        },
+        {
+            "Rank": 8,
+            "Symbol": "BHEL",
+            "12M": 67.94,
+            "6M": 41.32,
+            "3M": 55.46,
+            "MomentumScore": 57.46
+        },
+        {
+            "Rank": 9,
+            "Symbol": "SAIL",
+            "12M": 66.84,
+            "6M": 44.86,
+            "3M": 27.94,
+            "MomentumScore": 52.47
+        },
+        {
+            "Rank": 10,
+            "Symbol": "CUMMINSIND",
+            "12M": 81.29,
+            "6M": 26.45,
+            "3M": 16.43,
+            "MomentumScore": 51.87
+        },
+        {
+            "Rank": 11,
+            "Symbol": "HINDALCO",
+            "12M": 69.72,
+            "6M": 39.15,
+            "3M": 24.62,
+            "MomentumScore": 51.53
+        },
+        {
+            "Rank": 12,
+            "Symbol": "ADANIENSOL",
+            "12M": 53.89,
+            "6M": 33.24,
+            "3M": 32.78,
+            "MomentumScore": 43.47
+        },
+        {
+            "Rank": 13,
+            "Symbol": "FORCEMOT",
+            "12M": 87.7,
+            "6M": 13.98,
+            "3M": -22.88,
+            "MomentumScore": 43.47
+        },
+        {
+            "Rank": 14,
+            "Symbol": "BHARATFORG",
+            "12M": 51.81,
+            "6M": 36.04,
+            "3M": 8.49,
+            "MomentumScore": 38.41
+        },
+        {
+            "Rank": 15,
+            "Symbol": "GLENMARK",
+            "12M": 57.43,
+            "6M": 22.59,
+            "3M": 10.81,
+            "MomentumScore": 37.65
+        },
+        {
+            "Rank": 16,
+            "Symbol": "KEI",
+            "12M": 52.14,
+            "6M": 27.65,
+            "3M": 15.16,
+            "MomentumScore": 37.4
+        },
+        {
+            "Rank": 17,
+            "Symbol": "POLYCAB",
+            "12M": 52.65,
+            "6M": 20.92,
+            "3M": 19.65,
+            "MomentumScore": 36.53
+        },
+        {
+            "Rank": 18,
+            "Symbol": "HINDZINC",
+            "12M": 46.5,
+            "6M": 35.27,
+            "3M": 10.79,
+            "MomentumScore": 35.99
+        },
+        {
+            "Rank": 19,
+            "Symbol": "ABCAPITAL",
+            "12M": 66.04,
+            "6M": 7.27,
+            "3M": 2.39,
+            "MomentumScore": 35.68
+        },
+        {
+            "Rank": 20,
+            "Symbol": "NAM-INDIA",
+            "12M": 47.58,
+            "6M": 25.3,
+            "3M": 14.45,
+            "MomentumScore": 34.27
         }
     ],
     "portfolio": [
         {
-            "symbol": "ADANIENSOL",
-            "price": 1342.2,
+            "symbol": "MCX",
+            "price": 3269.9,
+            "quantity": 12,
+            "investedAmount": 39238.8,
+            "momentumScore": 106.1
+        },
+        {
+            "symbol": "POWERINDIA",
+            "price": 35555.0,
+            "quantity": 1,
+            "investedAmount": 35555.0,
+            "momentumScore": 91.97
+        },
+        {
+            "symbol": "NATIONALUM",
+            "price": 409.25,
+            "quantity": 97,
+            "investedAmount": 39697.25,
+            "momentumScore": 90.24
+        },
+        {
+            "symbol": "LAURUSLABS",
+            "price": 1343.5,
             "quantity": 29,
-            "investedAmount": 38923.8,
-            "momentumScore": 39.51
+            "investedAmount": 38961.5,
+            "momentumScore": 77.41
         },
         {
-            "symbol": "NUVAMA",
-            "price": 1499.0,
-            "quantity": 26,
-            "investedAmount": 38974.0,
-            "momentumScore": 16.44
+            "symbol": "ADANIPOWER",
+            "price": 219.32,
+            "quantity": 182,
+            "investedAmount": 39916.24,
+            "momentumScore": 71.9
         },
         {
-            "symbol": "ETERNAL",
-            "price": 242.05,
-            "quantity": 165,
-            "investedAmount": 39938.25,
-            "momentumScore": -10.41
+            "symbol": "IDEA",
+            "price": 13.73,
+            "quantity": 2913,
+            "investedAmount": 39995.49,
+            "momentumScore": 64.64
         },
         {
-            "symbol": "UNITDSPR",
-            "price": 1272.6,
-            "quantity": 31,
-            "investedAmount": 39450.6,
-            "momentumScore": -13.36
+            "symbol": "BSE",
+            "price": 4193.8,
+            "quantity": 9,
+            "investedAmount": 37744.2,
+            "momentumScore": 59.32
         },
         {
-            "symbol": "JIOFIN",
-            "price": 235.78,
-            "quantity": 169,
-            "investedAmount": 39846.82,
-            "momentumScore": -16.74
+            "symbol": "BHEL",
+            "price": 408.55,
+            "quantity": 97,
+            "investedAmount": 39629.35,
+            "momentumScore": 57.46
+        },
+        {
+            "symbol": "SAIL",
+            "price": 201.21,
+            "quantity": 198,
+            "investedAmount": 39839.58,
+            "momentumScore": 52.47
+        },
+        {
+            "symbol": "CUMMINSIND",
+            "price": 5353.0,
+            "quantity": 7,
+            "investedAmount": 37471.0,
+            "momentumScore": 51.87
         }
     ],
     "capital": 500000
